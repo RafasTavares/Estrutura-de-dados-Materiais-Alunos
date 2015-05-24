@@ -5,7 +5,6 @@ import java.util.Collection;
 import java.util.LinkedList;
 import java.util.TreeMap;
 
-import br.com.arvoreTernaria.classes.No;
 
 public class ArvoreBinariaBuscaNova<T extends Comparable<T>> {
 
