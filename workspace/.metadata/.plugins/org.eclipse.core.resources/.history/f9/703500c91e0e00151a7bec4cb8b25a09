@@ -6,9 +6,6 @@ import java.util.Collections;
 import java.util.LinkedList;
 import java.util.TreeMap;
 
-/*
- * @autor Rafael Tavares Andarde
- * */
 public class ArvoreBinariaBuscaNova<T extends Comparable<T>> {
 
 	private NoNovo<T> pai;
@@ -331,7 +328,9 @@ public class ArvoreBinariaBuscaNova<T extends Comparable<T>> {
 					listaAtual.add(noAux.getFilhoDireito());
 			}
 		}
+
 		return lista;
+
 	}
 
 	public void imprimirCerto() {
