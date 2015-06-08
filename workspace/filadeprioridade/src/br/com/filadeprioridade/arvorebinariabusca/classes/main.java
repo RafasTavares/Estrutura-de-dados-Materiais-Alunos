@@ -6,13 +6,21 @@ public class main {
 
 		FilaPrioridade<Integer> fila = new FilaPrioridade<Integer>();
 		
-		fila.Inserir(10);
-		fila.Inserir(5);
+		fila.Inserir(11);
+		fila.Inserir(1);
+		fila.Inserir(2);
 		fila.Inserir(14);
+		fila.Inserir(43);
+		fila.Inserir(44);
+		fila.Inserir(12);
 		
-		fila.Remover();
+		//System.out.println("Tamanho: " + fila.tamanho());
+		//System.out.println("To String 2: " + fila.toString2());
+		String a = "";
+		System.out.println("Prioridade: " + fila.PrintPrioridade());
 		
-		System.out.println(fila.toString());
+		
+		//System.out.println(fila.toString());
 		
 	}
 

@@ -1,0 +1,20 @@
+package br.com.filadeprioridade.arvorebinariabusca.classes;
+
+public class main {
+
+	public static void main(String[] args) {
+
+		FilaPrioridade<Integer> fila = new FilaPrioridade<Integer>();
+		
+		fila.Inserir(12);
+		fila.Inserir(1);
+		fila.Inserir(2);
+		fila.Inserir(14);
+		
+		fila.Remover();
+		
+		System.out.println(fila.toString());
+		
+	}
+
+}
