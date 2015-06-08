@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="br.com.arvoreAVL.classes.ArvoreAVL"/>
+<fullyQualifiedTypeName name="principal.ParallelMergeSort"/>
+<fullyQualifiedTypeName name="principal.AbstractSort"/>
+<fullyQualifiedTypeName name="principal.SerialMergeSort"/>
+<fullyQualifiedTypeName name="java.util.Collection"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
