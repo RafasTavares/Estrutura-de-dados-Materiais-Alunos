@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/arvoreAVL/src/br/com/arvoreAVL/classes/MainArvoreAVL.java"/>
+<listEntry value="/ArvoreAVL/src/br/com/arvoreAVL/classes/MainArvoreAVL.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="br.com.arvoreAVL.classes.MainArvoreAVL"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="arvoreAVL"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="ArvoreAVL"/>
 </launchConfiguration>

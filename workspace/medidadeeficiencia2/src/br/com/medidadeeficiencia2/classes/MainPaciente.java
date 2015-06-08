@@ -59,7 +59,6 @@ public class MainPaciente {
 
 			case 3:
 				
-				
 				if (fila.tamanho() == 0 || arvore.obterTodosEmLargura().size() == 0) {
 					System.out.println("Lista vazia");
 				} else {
