@@ -20,20 +20,6 @@ public class main {
 		System.out.println("Prioridade: " + fila.PrintPrioridade());
 
 		// System.out.println(fila.toString());
-		
-		/*
-		 * lista nao ordenada - inclusao - no final
-		 * 						remocao - a partir da busca sequencial
-		 * 
-		 * lista ordenada - inclusao - da maneira correta para manter a lista ordenada
-		 * 					remocao - ultimo da lista
-		 * 
-		 * AB Busca - inclusao - normal na arvore
-		 * 			  remocao - pegando o elemento mais a direita da arvore
-		 * 
-		 * heap binario, mais eficiente
-		 *    arvore completa
-		 * */
 
 	}
 
